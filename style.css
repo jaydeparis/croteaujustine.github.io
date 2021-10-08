@@ -1,0 +1,38 @@
+h1{
+    font-size: 40px;
+    font-family: 'Indie Flower', cursive;
+}
+h2{
+    font-size: 25px;
+    color:slateblue;
+    font-family: 'Indie Flower', cursive;
+}
+h3{
+    font-size: 15px;
+    font-family: 'Indie Flower', cursive;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+li{
+    color:black;
+    font-family: 'Montserrat', sans-serif;
+}
+*{
+    font-size:15px;
+}
+
+div p{
+    font-size: 13px;
+}
+img{
+    width: 50%;
+    height: 300px;
+}
+#demi {
+    width: 50%;
+}
+#photo{
+    width: auto;
+    height: 40%;
+}
